@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1142,
+    "id" : "https://janestevenson.github.io/Horrockses/images/194592/canvas/",
+    "label" : {
+      "none" : [ "194592" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://janestevenson.github.io/Horrockses/images/194592/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://janestevenson.github.io/Horrockses/images/194592/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 36,
+              "height" : 29
+            }, {
+              "width" : 72,
+              "height" : 58
+            }, {
+              "width" : 143,
+              "height" : 116
+            }, {
+              "width" : 286,
+              "height" : 231
+            }, {
+              "width" : 571,
+              "height" : 461
+            }, {
+              "width" : 1142,
+              "height" : 921
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1142,
+            "@id" : "https://janestevenson.github.io/Horrockses/images/194592",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 921
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1142,
+          "id" : "https://janestevenson.github.io/Horrockses/images/194592/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 921
+        },
+        "target" : "https://janestevenson.github.io/Horrockses/images/194592/canvas/"
+      } ]
+    } ],
+    "height" : 921
+  }, {
     "width" : 2318,
     "id" : "https://janestevenson.github.io/Horrockses/images/194591/canvas/",
     "label" : {
