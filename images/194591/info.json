@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 73,
+    "height" : 53
+  }, {
+    "width" : 145,
+    "height" : 106
+  }, {
+    "width" : 290,
+    "height" : 211
+  }, {
+    "width" : 580,
+    "height" : 421
+  }, {
+    "width" : 1159,
+    "height" : 841
+  }, {
+    "width" : 2318,
+    "height" : 1681
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2318,
+  "@id" : "https://janestevenson.github.io/Horrockses/images/194591",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1681
+}
