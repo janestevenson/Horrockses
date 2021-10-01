@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://janestevenson.github.io/Horrockses/manifests/horrockses-manifest1.json",
-    "label" : "Archive of Horrockses, Crewdson and Co, cotton manufacturers, Preston, Lancashire"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://janestevenson.github.io/Horrockses/manifests/horrockses-manifest.json",
     "label" : "Archive of Horrockses, Crewdson and Co, cotton manufacturers, Preston, Lancashire"
   } ]
