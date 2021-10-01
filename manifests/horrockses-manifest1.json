@@ -1,0 +1,164 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://janestevenson.github.io/Horrockses/manifests/horrockses-manifest1.json",
+  "@type" : "sc:Manifest",
+  "label" : "Archive of Horrockses, Crewdson and Co, cotton manufacturers, Preston, Lancashire",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A sample of images from the archive",
+    "@language" : "en"
+  } ],
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://ef569df7-cb53-4205-9ac9-81a47a96855c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://a20f1195-7d6b-471f-9012-ad8e755693bb",
+      "@type" : "sc:Canvas",
+      "label" : "A 19th century advert for Horrockses Miller & Co",
+      "height" : 1497,
+      "width" : 890,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cd07a015-5349-4c74-b1ef-70d7330e995c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/194590/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/194590",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1497,
+          "width" : 890
+        },
+        "on" : "http://a20f1195-7d6b-471f-9012-ad8e755693bb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d368c757-0501-4f56-bcd3-5c3e69892664",
+      "@type" : "sc:Canvas",
+      "label" : "Photograph of a Preston Guild arch constructed from cotton bales",
+      "height" : 1681,
+      "width" : 2318,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3ce6ca17-d38b-4413-9eee-11c1636b0985",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/194591/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/194591",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1681,
+          "width" : 2318
+        },
+        "on" : "http://d368c757-0501-4f56-bcd3-5c3e69892664"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5fd63aca-bd4b-4004-8ad6-5295762084eb",
+      "@type" : "sc:Canvas",
+      "label" : "Painted designs for Horrockses fabrics",
+      "height" : 921,
+      "width" : 1142,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a66c3aae-7b27-459a-8d6e-f114d68993aa",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/194592/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/194592",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 921,
+          "width" : 1142
+        },
+        "on" : "http://5fd63aca-bd4b-4004-8ad6-5295762084eb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://759fd6ab-3266-4d00-bec4-ce777e5cd728",
+      "@type" : "sc:Canvas",
+      "label" : "Inside one of the Horrockses factories at Preston",
+      "height" : 1525,
+      "width" : 1561,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://53430702-20ec-48a9-90f9-f44c3abe7a2e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/194593/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/194593",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1525,
+          "width" : 1561
+        },
+        "on" : "http://759fd6ab-3266-4d00-bec4-ce777e5cd728"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Genre/form",
+        "value" : "Black and white photograph"
+      } ]
+    }, {
+      "@id" : "http://30e7ae74-a0ae-4903-87dc-be3d7f794624",
+      "@type" : "sc:Canvas",
+      "label" : "Publicity material promoting Horrockses fashions",
+      "height" : 2123,
+      "width" : 1450,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8c97090c-a241-4220-bba5-4475702a31ab",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/194594/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/194594",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2123,
+          "width" : 1450
+        },
+        "on" : "http://30e7ae74-a0ae-4903-87dc-be3d7f794624"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Genre/Form",
+        "value" : "Cutting"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "license" : "",
+  "thumbnail" : {
+    "@id" : "http://a20f1195-7d6b-471f-9012-ad8e755693bb"
+  }
+}
